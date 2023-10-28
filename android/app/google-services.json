@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135133641754",
+    "project_id": "projfinal-d7127",
+    "storage_bucket": "projfinal-d7127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135133641754:android:1396fbc8a952e80c3125a3",
+        "android_client_info": {
+          "package_name": "com.trabfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMObP5IEArsp_lSTJh0WdQ_Ns5l989AvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
